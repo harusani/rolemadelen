@@ -10,7 +10,7 @@ See my [now page](https://blog.madelen.me/now).
 <br />
 
 ### cli crafts
-[pomosh](https://github.com/rolemadelen/pomosh)
+[pomosh](https://github.com/rolemadelen/pomosh) | [shigan](https://github.com/rolemadelen/shigan)
 
 <!--
 <div>
