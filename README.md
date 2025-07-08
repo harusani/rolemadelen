@@ -6,13 +6,13 @@
 ### what am i doing now?
 See my [now page](https://blog.jiiyoo.me/writing/12/).
 
+<!--
 --
 <br />
 
 ### cli crafts
 [pomosh](https://github.com/rolemadelen/pomosh) | [shigan](https://github.com/rolemadelen/shigan)
 
-<!--
 <div>
 <h4>Front-End</h4>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
